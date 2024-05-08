@@ -41,7 +41,7 @@ const Home = () => {
                     <div className="row align-items-center p-5">
                         <div className="col-lg-6 col-sm-12" >
                             <img className="rounded-5"
-                                src="image/pexels-alteredsnaps-14415371.jpg"
+                                src="/pexels-alteredsnaps-14415371.jpg"
                                 alt="restaurant-1" 
                                 style={{height: '400px', width: '550px'}}
                             />
@@ -62,7 +62,7 @@ const Home = () => {
                     <div className="row align-items-center" data-aos="fade-up">
                         <div className="col-lg-4 col-sm-12">
                             <img data-aos="fade-up" className="rounded-pill"
-                                src="image/✰pinterest_ laurenchiangg.jpeg"
+                                src="/✰pinterest_ laurenchiangg.jpeg"
                                 alt="restaurant-1" 
                                 style={{height: '200px'}}
                             />
@@ -76,7 +76,7 @@ const Home = () => {
                         </div>
                         <div className="col-lg-4 col-sm-12">
                             <img data-aos="fade-up" data-aos-delay="200" className="rounded-pill"
-                                src="image/_ (3).jpeg"
+                                src="/_ (3).jpeg"
                                 alt="restaurant-1" 
                                 style={{height: '200px'}}
                             />
@@ -90,7 +90,7 @@ const Home = () => {
                         </div>
                         <div className="col-lg-4 col-sm-12">
                             <img data-aos="fade-up" data-aos-delay="400" className="rounded-pill"
-                                src="image/✰pinterest_ laurenchiangg (1).jpeg"
+                                src="/✰pinterest_ laurenchiangg (1).jpeg"
                                 alt="restaurant-1" 
                                 style={{height: '200px'}}
                             />

@@ -42,7 +42,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/_ (2).jpeg" className="card-img-top" alt="image-1" style={{ maxHeight: "300px" }} />
+                                <img src="/_ (2).jpeg" className="card-img-top" alt="image-1" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Tofu Salad<span style={{ fontSize: "medium" }}> (380 kcal)</span></h5>
                                     <p className="card-text">Rp 48.000,00</p>
@@ -53,7 +53,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="100">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/Ted Cavanaugh _ MEALS _ 44.jpeg" className="card-img-top" alt="image-2" style={{ maxHeight: "300px" }} />
+                                <img src="/Ted Cavanaugh _ MEALS _ 44.jpeg" className="card-img-top" alt="image-2" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Vegan Salad<span style={{ fontSize: "medium" }}> (380 kcal)</span></h5>
                                     <p className="card-text">Rp 38.000,00</p>
@@ -64,7 +64,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="200">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/_ (3).jpeg" className="card-img-top" alt="image-3" style={{ maxHeight: "300px" }} />
+                                <img src="/_ (3).jpeg" className="card-img-top" alt="image-3" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Tuna Salad<span style={{fontSize:"medium"}}> (423 kcal)</span></h5>
                                     <p className="card-text">Rp 52.000,00</p>
@@ -75,7 +75,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="300">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/✰pinterest_ laurenchiangg.jpeg" className="card-img-top" alt="image-4" style={{ maxHeight: "300px" }} />
+                                <img src="/✰pinterest_ laurenchiangg.jpeg" className="card-img-top" alt="image-4" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Roasted Chick Salad<span style={{fontSize:"medium"}}> (485 kcal)</span></h5>
                                     <p className="card-text">Rp 57.000,00</p>
@@ -86,7 +86,7 @@ const Menu = () => {
 
                         <div className="col-lg-3 mt-4" data-aos="flip-left">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/Sushi Bowl au Surimi et Sauce Tahini - La Cuisine de Graldine.jpeg" className="card-img-top" alt="image-5" style={{ maxHeight: "300px" }} />
+                                <img src="/Sushi Bowl au Surimi et Sauce Tahini - La Cuisine de Graldine.jpeg" className="card-img-top" alt="image-5" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Salmon Poke Salad<span style={{ fontSize: "medium" }}> (496 kcal)</span></h5>
                                     <p className="card-text">Rp 74.000,00</p>
@@ -97,7 +97,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="100">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/lucyrider.jpeg" className="card-img-top" alt="image-6" style={{ maxHeight: "300px" }} />
+                                <img src="/lucyrider.jpeg" className="card-img-top" alt="image-6" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Rainbow Salad<span style={{ fontSize: "medium" }}> (439 kcal)</span></h5>
                                     <p className="card-text">Rp 51.000,00</p>
@@ -108,7 +108,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="200">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/Bol poke de thon ahi au sésame grillé _ Dash of Honey.jpeg" className="card-img-top" alt="image-7" style={{ maxHeight: "300px" }} />
+                                <img src="/Bol poke de thon ahi au sésame grillé _ Dash of Honey.jpeg" className="card-img-top" alt="image-7" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Wagyu Steak Salad<span style={{fontSize:"medium"}}> (478 kcal)</span></h5>
                                     <p className="card-text">Rp 89.000,00</p>
@@ -119,7 +119,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="300">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/Teriyaki Chicken Poke Bowls - Easy & Healthy!.jpeg" className="card-img-top" alt="image-8" style={{ maxHeight: "300px" }} />
+                                <img src="/Teriyaki Chicken Poke Bowls - Easy & Healthy!.jpeg" className="card-img-top" alt="image-8" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Teriyaki Chick Salad<span style={{fontSize:"medium"}}> (435 kcal)</span></h5>
                                     <p className="card-text">Rp 69.000,00</p>
@@ -130,7 +130,7 @@ const Menu = () => {
 
                         <div className="col-lg-3 mt-4" data-aos="flip-left">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/banana-kesemek.jpg" className="card-img-top" alt="image-9" style={{ maxHeight: "300px" }} />
+                                <img src="/banana-kesemek.jpg" className="card-img-top" alt="image-9" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Peachnana Smoothies</h5>
                                     <p className="card-text">Rp 34.000,00</p>
@@ -141,7 +141,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="100">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/blue banana.jpg" className="card-img-top" alt="image-10" style={{ maxHeight: "300px" }} />
+                                <img src="/blue banana.jpg" className="card-img-top" alt="image-10" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Berrynana Smoothies</h5>
                                     <p className="card-text">Rp 38.000,00</p>
@@ -152,7 +152,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="200">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/sttraw.jpg" className="card-img-top" alt="image-11" style={{ maxHeight: "300px" }} />
+                                <img src="/sttraw.jpg" className="card-img-top" alt="image-11" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Dalkginana Smoothies</h5>
                                     <p className="card-text">Rp 39.000,00</p>
@@ -163,7 +163,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="300">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/green.jpg" className="card-img-top" alt="image-12" style={{ maxHeight: "300px" }} />
+                                <img src="/green.jpg" className="card-img-top" alt="image-12" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Green Smoothies</h5>
                                     <p className="card-text">Rp 33.000,00</p>
@@ -174,7 +174,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/tea.jpg" className="card-img-top" alt="image-13" style={{ maxHeight: "300px" }} />
+                                <img src="/tea.jpg" className="card-img-top" alt="image-13" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Lychee Ade</h5>
                                     <p className="card-text">Rp 24.000,00</p>
@@ -185,7 +185,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="100">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/tea korea.jpg" className="card-img-top" alt="image-14" style={{ maxHeight: "300px" }} />
+                                <img src="/tea korea.jpg" className="card-img-top" alt="image-14" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Dalkgi Ade</h5>
                                     <p className="card-text">Rp 25.000,00</p>
@@ -196,7 +196,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="200">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/tea plum.jpg" className="card-img-top" alt="image-15" style={{ maxHeight: "300px" }} />
+                                <img src="/tea plum.jpg" className="card-img-top" alt="image-15" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Lemon Tea</h5>
                                     <p className="card-text">Rp 21.000,00</p>
@@ -207,7 +207,7 @@ const Menu = () => {
                         
                         <div className="col-lg-3 mt-4" data-aos="flip-left" data-aos-delay="300">
                             <div className="card" style={{ width: "20rem", height: "450px" }}>
-                                <img src="image/peach.jpg" className="card-img-top" alt="image-16" style={{ maxHeight: "300px" }} />
+                                <img src="/peach.jpg" className="card-img-top" alt="image-16" style={{ maxHeight: "300px" }} />
                                 <div className="card-body">
                                     <h5 className="card-title">Peach Tea</h5>
                                     <p className="card-text">Rp 24.000,00</p>

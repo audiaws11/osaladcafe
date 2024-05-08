@@ -57,16 +57,16 @@ const About = () => {
             <div className="carousel-item active" data-bs-interval="2000">
               {/* First slide with three grid photos */}
               <div className="d-flex justify-content-around">
-                <img src="image/Ficca + Luciano.jpeg" className="carousel-img rounded-4" alt="Image 1" style={{ width: "300px", height: "300px" }} />
-                <img src="image/pexels-dmitry-zvolskiy-3679601.jpg" className="carousel-img rounded-4" alt="Image 2" style={{ width: "300px", height: "300px" }} />
-                <img src="image/pexels-jonathan-bor.jpg" className="carousel-img rounded-4" alt="Image 3" style={{ width: "300px", height: "300px" }} />
+                <img src="/Ficca + Luciano.jpeg" className="carousel-img rounded-4" alt="Image 1" style={{ width: "300px", height: "300px" }} />
+                <img src="/pexels-dmitry-zvolskiy-3679601.jpg" className="carousel-img rounded-4" alt="Image 2" style={{ width: "300px", height: "300px" }} />
+                <img src="/pexels-jonathan-bor.jpg" className="carousel-img rounded-4" alt="Image 3" style={{ width: "300px", height: "300px" }} />
               </div>
             </div>
             <div className="carousel-item">
               <div className="d-flex justify-content-around">
-                <img src="image/sweetgreen eco-eateriy by Core Architecture, Bethesda – Maryland.jpeg" className="carousel-img rounded-4" alt="Image 1" style={{ width: "300px", height: "300px" }} />
-                <img src="image/Sweetgreen Launches A New Menu That Bans Sriracha And Bacon.jpeg" className="carousel-img rounded-4" alt="Image 2" style={{ width: "300px", height: "300px" }} />
-                <img src="image/Bol poke de thon ahi au sésame grillé _ Dash of Honey.jpeg" className="carousel-img rounded-4" alt="Image 3" style={{ width: "300px", height: "300px" }} />
+                <img src="/sweetgreen eco-eateriy by Core Architecture, Bethesda – Maryland.jpeg" className="carousel-img rounded-4" alt="Image 1" style={{ width: "300px", height: "300px" }} />
+                <img src="/Sweetgreen Launches A New Menu That Bans Sriracha And Bacon.jpeg" className="carousel-img rounded-4" alt="Image 2" style={{ width: "300px", height: "300px" }} />
+                <img src="/Bol poke de thon ahi au sésame grillé _ Dash of Honey.jpeg" className="carousel-img rounded-4" alt="Image 3" style={{ width: "300px", height: "300px" }} />
               </div>
             </div>
             
@@ -88,15 +88,15 @@ const About = () => {
         <div className="container flex-box text-center">
           <div className="row align-items-center" >
             <div className="col-lg-4 col-sm-12">
-              <img className="rounded" data-aos="fade-up"src="image/_ (5).jpeg" alt="restaurant-1" style={{ height: "500px" }} />
+              <img className="rounded" data-aos="fade-up"src="/_ (5).jpeg" alt="restaurant-1" style={{ height: "500px" }} />
               <h2 className="location">Grand Indonesia, Jakarta</h2>
             </div>
             <div className="col-lg-4 col-sm-12">
-              <img className="rounded" data-aos="fade-up" data-aos-delay="100"src="image/The Bowl by fortytwelve (1).jpeg" alt="restaurant-1" style={{ height: "500px" }} />
+              <img className="rounded" data-aos="fade-up" data-aos-delay="100"src="/The Bowl by fortytwelve (1).jpeg" alt="restaurant-1" style={{ height: "500px" }} />
               <h2 className="location">Tunjungan Plaza, Surabaya</h2>
             </div>
             <div className="col-lg-4 col-sm-12">
-              <img className="rounded" data-aos="fade-up" data-aos-delay="200"src="image/The Bowl by fortytwelve.jpeg" alt="restaurant-1" style={{ height: "500px" }} />
+              <img className="rounded" data-aos="fade-up" data-aos-delay="200"src="/The Bowl by fortytwelve.jpeg" alt="restaurant-1" style={{ height: "500px" }} />
               <h2 className="location">DP Mall, Semarang</h2>
             </div>
           </div>

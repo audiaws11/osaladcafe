@@ -64,7 +64,7 @@ const Contact = () => {
                             </form>
                         </div>
                         <div className="col-lg-6 col-sm-12 mt-2" data-aos="fade-up" data-aos-delay="300">
-                            <img src="image/—Pngtree—contact us_5412848.png" alt="Contact Us" style={{ width: '550px', height: '470px' }} />
+                            <img src="/—Pngtree—contact us_5412848.png" alt="Contact Us" style={{ width: '550px', height: '470px' }} />
                         </div>
                     </div>
                 </div>
